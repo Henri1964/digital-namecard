@@ -6,8 +6,8 @@ FN: Henri Smolenaers
 ORG:STAMICARBON;
 TITLE:VP Services
 EMAIL;type=INTERNET;type=WORK;type=pref:henri.smolenaers@stamicarbon.com
-TEL;type=WORK;type=VOICE:+31 651893656
-item1.ADR;type=WORK;type=pref:;;Mercator 3 Sittard;;;6135KW;Netherlands
+TEL;type=WORK;type=VOICE:+31651893656
+item1.ADR;type=WORK;type=pref:;;Mercator 3;;;6135KW Sittard;Netherlands
 item1.X-ABADR:sg
 item2.URL;type=pref:Stamicarbon.com
 item2.X-ABLabel:_$!<HomePage>!$_
